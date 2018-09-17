@@ -17,6 +17,7 @@ def diceRoll():
         outcome += score
     print("Your outcome is: "+ str(outcome))
     print()
+    print()
     diceRoll()
     
 diceRoll()
