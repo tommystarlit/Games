@@ -1,2 +1,2 @@
-# fun
+# Games
 Code for fun
